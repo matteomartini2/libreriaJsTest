@@ -2,8 +2,8 @@
   "name": "firstprojectjs",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
-  "types": "dist/index.d.js",
+  "main": "dist/script.js",
+  "types": "dist/script.d.js",
   "files": ["/dist"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
